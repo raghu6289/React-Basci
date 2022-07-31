@@ -32,7 +32,43 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.btn {
+  color: blue
+}
+
+.input {
+  width: 20%;
+}
+
+.button_red {
+  color: red;
+}
+
+
+.button_grey {
+  color: grey;
+}
+
+.addClass {
+  color: green;
+  border-radius: 0%;
+  width: auto;
+
+}
+
+.delClass {
+  color: red;
+}
+
+.space {
+  width: auto;
+  height: 30px;
+  display: inline-block;
+  border-radius: 15%;
 }
